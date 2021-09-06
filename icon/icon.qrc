@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Newpost.png</file>
+        <file>Securityclose.png</file>
+    </qresource>
+</RCC>

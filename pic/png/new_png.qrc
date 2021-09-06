@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/n_png">
+        <file>地雷_红.png</file>
+        <file>地雷_蓝.png</file>
+        <file>工兵_红.png</file>
+        <file>工兵_蓝.png</file>
+        <file>军旗_红.png</file>
+        <file>军旗_蓝.png</file>
+        <file>军长_红.png</file>
+        <file>军长_蓝.png</file>
+        <file>空棋盘.png</file>
+        <file>空行营.png</file>
+        <file>连长_红.png</file>
+        <file>连长_蓝.png</file>
+        <file>旅长_红.png</file>
+        <file>旅长_蓝.png</file>
+        <file>排长_红.png</file>
+        <file>排长_蓝.png</file>
+        <file>棋盘.png</file>
+        <file>棋盘2.png</file>
+        <file>棋盘背景.jpg</file>
+        <file>师长_红.png</file>
+        <file>师长_蓝.png</file>
+        <file>司令_红.png</file>
+        <file>司令_蓝.png</file>
+        <file>团长_红.png</file>
+        <file>团长_蓝.png</file>
+        <file>营长_红.png</file>
+        <file>营长_蓝.png</file>
+        <file>炸弹_红.png</file>
+        <file>炸弹_蓝.png</file>
+        <file>占位符（空兵站）.png</file>
+        <file>占位符（未翻的棋子）.png</file>
+        <file>new_png.qrc</file>
+        <file>png.qrc</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>

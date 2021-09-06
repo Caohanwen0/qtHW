@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/wrong">
+        <file>warn.jpg</file>
+    </qresource>
+</RCC>
